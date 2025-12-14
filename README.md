@@ -1,18 +1,36 @@
 ### Hi there, I'm Tomás. 👋
 
-I translate chaos into structure. I am the Founder & Architect behind **[XELTA Studios](https://xeltastudios.com)**.
+I build digital systems that resist obsolescence.
 
-In a digital landscape drowning in noise, I design ecosystems built to last. My philosophy is **"Forging Infinity"**: building software robust enough to handle today's reality and flexible enough to scale indefinitely.
+Founder & Architect at **[XELTA Studios](https://xeltastudios.com)**—where we design web platforms built to endure, not expire.
 
-### ⚡ The Value Proposition
-Most tech stacks fracture when you scale. I build systems designed to endure:
-- ✅ **Less Downtime:** Robust architecture reducing failure points.
-- ✅ **Less Chaos:** Clean, maintainable codebases.
-- ✅ **More Velocity:** Faster iteration cycles for your business.
+In a digital landscape drowning in noise, businesses don't need more features. They need architecture that scales. My philosophy: **Forging Infinity**.
+
+---
+
+### ⚡ What I Build
+Modern web systems with clean foundations:
+- **Professional Sites** → Multi-page platforms with CMS
+- **E-commerce** → Full payment integration and inventory
+- **Custom Systems** → Tailored solutions for unique needs
+- **High-Impact Landings** → Conversion-focused pages
+
+---
 
 ### 🛠 Core Stack
 - **Frontend:** Next.js 15, React 19, TypeScript
-- **Styling:** Tailwind CSS, Framer Motion
-- **System:** Node.js, Vercel, AI Agents
+- **Styling:** Tailwind CSS, Framer Motion  
+- **Infrastructure:** Vercel, Supabase
+- **Approach:** Clean architecture. No shortcuts.
 
-[**🌐 Visit XELTA Studios**](https://xeltastudios.com) • [**💼 Connect on LinkedIn**](https://www.linkedin.com/in/tomas-figueroa-xelta)
+---
+
+### 🎯 Operating Principle
+**Forging Infinity.**
+
+Not because software lasts forever.  
+But because it should evolve, not expire.
+
+---
+
+[**🌐 XELTA Studios**](https://xeltastudios.com) • [**💼 LinkedIn**](https://www.linkedin.com/in/tomas-figueroa-xelta)
