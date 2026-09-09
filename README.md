@@ -1,27 +1,28 @@
 ### Hi there, I'm Tomás. 👋
 
-I build digital systems that resist obsolescence.
+I engineer digital infrastructure that scales businesses and resists obsolescence.
 
-Founder & Architect at **[XELTA Studios](https://xeltastudios.com)**—where we design web platforms built to endure, not expire.
+Founder & Architect at **Xelta**, an ecosystem focused on automating and constructing operational systems for any business model. Under this umbrella, **[Xelta Studios](https://xeltastudios.com)** operates as our digital presence arm, designing platforms built to endure, not expire.
 
-In a digital landscape drowning in noise, businesses don't need more features. They need architecture that scales. My philosophy: **Forging Infinity**.
-
----
-
-### ⚡ What I Build
-Modern web systems with clean foundations:
-- **Professional Sites** → Multi-page platforms with CMS
-- **E-commerce** → Full payment integration and inventory
-- **Custom Systems** → Tailored solutions for unique needs
-- **High-Impact Landings** → Conversion-focused pages
+In a digital landscape drowning in noise, businesses don't need more generic websites. They need resilient architecture, optimized workflows, and solutions that drive real growth. My philosophy: **Forging Infinity**.
 
 ---
 
-### 🛠 Core Stack
-- **Frontend:** Next.js 15, React 19, TypeScript
-- **Styling:** Tailwind CSS, Framer Motion  
-- **Infrastructure:** Vercel, Supabase
-- **Approach:** Clean architecture. No shortcuts.
+### ⚡ Digital Solutions & Architecture
+We deploy containerized, high-performance solutions with clean foundations:
+
+- **Custom Business Systems** → Tailored operational architecture, internal tools, and automated workflows.
+- **Digital Commerce Engines** → Full-scale e-commerce ecosystems with advanced inventory and payment logistics.
+- **Corporate Platforms** → Multi-module digital presences powered by robust, headless Content Management Systems.
+- **High-Conversion Touchpoints** → Performance-engineered landing pages designed for aggressive user acquisition.
+---
+
+### 🛠 Core Stack & Infrastructure
+- **Frontend & UI:** Next.js (App Router), TypeScript, Tailwind CSS, shadcn/ui, Motion
+- **Data & Persistence:** PostgreSQL, Drizzle ORM, Redis
+- **DevOps & Containers:** Docker, OCI Registry (GHCR), Local-to-Cloud CI/CD pipelines
+- **Infrastructure & Hosting:** Hetzner VPS, Coolify Orchestration, Cloudflare Edge
+- **Architecture:** Clean Architecture, Modular Monoliths, Containerized Micro-services
 
 ---
 
@@ -33,4 +34,4 @@ But because it should evolve, not expire.
 
 ---
 
-[**🌐 XELTA Studios**](https://xeltastudios.com) • [**💼 LinkedIn**](https://www.linkedin.com/in/tomas-figueroa-xelta)
+[**🌐 Xelta Studios**](https://xeltastudios.com) • [**💼 LinkedIn**](https://www.linkedin.com/in/tomas-figueroa-xelta)
