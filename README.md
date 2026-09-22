@@ -2,14 +2,14 @@
 
 I engineer digital infrastructure that scales businesses and resists obsolescence.
 
-Founder & Architect at **Xelta**, an ecosystem focused on automating and constructing operational systems for any business model. Under this umbrella, **[Xelta Studios](https://xeltastudios.com)** operates as our digital presence arm, designing platforms built to endure, not expire.
+Lead Architect at **Xelta**, an ecosystem focused on automating and constructing operational systems for any business model. Under this umbrella, **[Xelta Studios](https://xeltastudios.com)** operates as the digital presence arm, designing platforms built to endure, not expire.
 
 In a digital landscape drowning in noise, businesses don't need more generic websites. They need resilient architecture, optimized workflows, and solutions that drive real growth. My philosophy: **Forging Infinity**.
 
 ---
 
 ### ⚡ Digital Solutions & Architecture
-We deploy containerized, high-performance solutions with clean foundations:
+I deploy containerized, high-performance solutions with clean foundations:
 
 - **Custom Business Systems** → Tailored operational architecture, internal tools, and automated workflows.
 - **Digital Commerce Engines** → Full-scale e-commerce ecosystems with advanced inventory and payment logistics.
