@@ -1,37 +1,25 @@
-### Hi there, I'm Tomás. 👋
+### Hi, I'm Tomas.
 
-I engineer digital infrastructure that scales businesses and resists obsolescence.
+I build digital infrastructure that scales businesses and resists obsolescence.
 
-Lead Architect at **Xelta**, an ecosystem focused on automating and constructing operational systems for any business model. Under this umbrella, **[Xelta Studios](https://xeltastudios.com)** operates as the digital presence arm, designing platforms built to endure, not expire.
+Founder of Xelta Inc., the holding behind the Xelta ecosystem: a family of products and fronts built to automate and construct operational systems for any business model, designed to endure, not expire.
 
-In a digital landscape drowning in noise, businesses don't need more generic websites. They need resilient architecture, optimized workflows, and solutions that drive real growth. My philosophy: **Forging Infinity**.
+I'm a self-taught builder: I design the product and architecture, and build with AI models and AI coding tools. I've built and sold three e-commerce businesses this way.
 
----
+🎯 Current Focus: Xelta OS
+Xelta Inc.'s flagship product. An AI operating system for businesses: Xelta AI stays with the owner in a single chat, keeps append-only memory, maps the company on established standards, and turns that map into expert recommendations and a dashboard built for that business.
 
-### ⚡ Digital Solutions & Architecture
-I deploy containerized, high-performance solutions with clean foundations:
+🧩 The Xelta Ecosystem (paused while I focus on Xelta OS)
+- Xelta Studios (https://xeltastudios.com/): the digital presence arm, building websites, stores and platforms for clients.
+- Knordica: AI real estate ecosystem for Latin America.
+- Xelta Forge: AI-guided accessibility fixes, rescanning until violations are gone.
+- SupraIndex: an industry ranking earned on merit, never bought.
 
-- **Custom Business Systems** → Tailored operational architecture, internal tools, and automated workflows.
-- **Digital Commerce Engines** → Full-scale e-commerce ecosystems with advanced inventory and payment logistics.
-- **Corporate Platforms** → Multi-module digital presences powered by robust, headless Content Management Systems.
-- **High-Conversion Touchpoints** → Performance-engineered landing pages designed for aggressive user acquisition.
----
+🛠 Stack I Build With
+Next.js, TypeScript, Tailwind CSS, shadcn/ui, PostgreSQL, Drizzle, Supabase, Docker, Coolify, Hetzner, Cloudflare
 
-### 🛠 Core Stack & Infrastructure
-- **Frontend & UI:** Next.js (App Router), TypeScript, Tailwind CSS, shadcn/ui, Motion
-- **Data & Persistence:** PostgreSQL, Drizzle ORM, Redis
-- **DevOps & Containers:** Docker, OCI Registry (GHCR), Local-to-Cloud CI/CD pipelines
-- **Infrastructure & Hosting:** Hetzner VPS, Coolify Orchestration, Cloudflare Edge
-- **Architecture:** Clean Architecture, Modular Monoliths, Containerized Micro-services
-
----
-
-### 🎯 Operating Principle
-**Forging Infinity.**
-
-Not because software lasts forever.  
+Forging Infinity.
+Not because software lasts forever.
 But because it should evolve, not expire.
-
----
 
 [**🌐 Xelta Studios**](https://xeltastudios.com) • [**💼 LinkedIn**](https://www.linkedin.com/in/tomas-figueroa-xelta)
